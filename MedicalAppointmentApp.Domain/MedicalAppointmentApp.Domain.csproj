@@ -8,11 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Base\" />
-    <Folder Include="Entities\Appointments\" />
-    <Folder Include="Entities\Insurance\" />
-    <Folder Include="Entities\Medical\" />
-    <Folder Include="Entities\System\" />
-    <Folder Include="Entities\Users\" />
     <Folder Include="Result\" />
     <Folder Include="Repositories\" />
   </ItemGroup>

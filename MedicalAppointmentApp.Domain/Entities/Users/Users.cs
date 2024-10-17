@@ -2,7 +2,7 @@
 
 namespace MedicalAppointmentApp.Domain.Entities.Users
 {
-    public class Users
+    public class Users : Base.BaseEntity
     {
         public int UsersID { get; set; }
         public string FirstName { get; set; }
@@ -10,9 +10,7 @@ namespace MedicalAppointmentApp.Domain.Entities.Users
         public string Email { get; set; }
         public string Password { get; set; }
         public int? RoleID { get; set; }
-        public DateTime CreatedAt { get; set; }
-        public DateTime? UpdatedAt { get; set; }
-        public bool IsActive { get; set; }
+
 
 }
 }

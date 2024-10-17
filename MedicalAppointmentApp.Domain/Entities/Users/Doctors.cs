@@ -2,7 +2,7 @@
 
 namespace MedicalAppointmentApp.Domain.Entities.Users
 {
-    public class Doctors
+    public class Doctors : Base.BaseEntity
     {
         public int DoctorsID { get; set; }
         public short SpecialtyID { get; set; }
@@ -15,9 +15,6 @@ namespace MedicalAppointmentApp.Domain.Entities.Users
         public string? ClinicAddress { get; set; }
         public short? AvailabilityModeld  { get; set; }
         public DateOnly LicenseExpirationDate { get; set; }
-        public DateTime CreateAt { get; set; }
-        public DateTime? UpdatedAt { get; set; }
-        public bool IsActive { get; set; }
 
 
     }

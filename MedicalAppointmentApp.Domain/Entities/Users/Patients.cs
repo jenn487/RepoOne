@@ -2,7 +2,7 @@
 
 namespace MedicalAppointmentApp.Domain.Entities.Users
 {
-    public class Patients
+    public class Patients : Base.BaseEntity
     {
         public int PatienteID { get; set; }
         public DateOnly DateOfBirth { get; set; }
@@ -14,9 +14,6 @@ namespace MedicalAppointmentApp.Domain.Entities.Users
         public string BloodType { get; set; }
         public string Allergies { get; set; }
         public int InsuranceProviderID { get; set; }
-        public DateTime CreatedAt { get; set; }
-        public DateTime? UpdatedAt { get; set; }
-        public bool IsActive { get; set; }
 
 
 }

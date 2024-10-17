@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedicalAppointmentApp.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+761d3c4179522637fdce457457c48984e6f40c43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e75b8b4058b76b18a8bdd1df737c2d21969300a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedicalAppointmentApp.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedicalAppointmentApp.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

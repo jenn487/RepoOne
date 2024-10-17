@@ -2,13 +2,10 @@
 
 namespace MedicalAppointmentApp.Domain.Entities.System
 {
-    public class Roles
+    public class Roles : Base.BaseEntity
     {
         public int RoleID { get; set; }
         public string RoleName { get; set; }
-        public DateTime CreatedAt { get; set; }
-        public DateTime? UpdatedAt { get; set; }
-        public bool IsActive { get; set; }
 
     }
 }

@@ -2,7 +2,7 @@
 
 namespace MedicalAppointmentApp.Domain.Entities.Insurance
 {
-    public class InsuranceProviders
+    public class InsuranceProviders : Base.BaseEntity
     {
         public int InsuranceProviderID { get; set; }
         public string Name { get; set; }
@@ -21,9 +21,7 @@ namespace MedicalAppointmentApp.Domain.Entities.Insurance
         public string? CustomerSupportContact { get; set; }
         public string? AcceptedRegions { get; set; }
         public decimal? MaxCoverageAmount { get; set; }
-        public DateTime CreateAt { get; set; }
-        public DateTime? UpdateAt { get; set; }
-        public bool IsActive { get; set; }
+
 
 
 

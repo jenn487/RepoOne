@@ -1,0 +1,12 @@
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Infrastructure\bin\Debug\net8.0\MedicalAppointmentApp.Infrastructure.deps.json
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Infrastructure\bin\Debug\net8.0\MedicalAppointmentApp.Infrastructure.dll
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Infrastructure\bin\Debug\net8.0\MedicalAppointmentApp.Infrastructure.pdb
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Infrastructure\obj\Debug\net8.0\MedicalAppointmentApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Infrastructure\obj\Debug\net8.0\MedicalAppointmentApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Infrastructure\obj\Debug\net8.0\MedicalAppointmentApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Infrastructure\obj\Debug\net8.0\MedicalAppointmentApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Infrastructure\obj\Debug\net8.0\MedicalAppointmentApp.Infrastructure.sourcelink.json
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Infrastructure\obj\Debug\net8.0\MedicalAppointmentApp.Infrastructure.dll
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Infrastructure\obj\Debug\net8.0\refint\MedicalAppointmentApp.Infrastructure.dll
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Infrastructure\obj\Debug\net8.0\MedicalAppointmentApp.Infrastructure.pdb
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Infrastructure\obj\Debug\net8.0\ref\MedicalAppointmentApp.Infrastructure.dll

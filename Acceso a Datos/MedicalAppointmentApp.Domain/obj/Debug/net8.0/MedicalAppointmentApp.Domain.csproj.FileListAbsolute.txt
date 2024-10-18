@@ -1,0 +1,12 @@
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Domain\bin\Debug\net8.0\MedicalAppointmentApp.Domain.deps.json
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Domain\bin\Debug\net8.0\MedicalAppointmentApp.Domain.dll
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Domain\bin\Debug\net8.0\MedicalAppointmentApp.Domain.pdb
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Domain\obj\Debug\net8.0\MedicalAppointmentApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Domain\obj\Debug\net8.0\MedicalAppointmentApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Domain\obj\Debug\net8.0\MedicalAppointmentApp.Domain.AssemblyInfo.cs
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Domain\obj\Debug\net8.0\MedicalAppointmentApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Domain\obj\Debug\net8.0\MedicalAppointmentApp.Domain.sourcelink.json
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Domain\obj\Debug\net8.0\MedicalAppointmentApp.Domain.dll
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Domain\obj\Debug\net8.0\refint\MedicalAppointmentApp.Domain.dll
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Domain\obj\Debug\net8.0\MedicalAppointmentApp.Domain.pdb
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Domain\obj\Debug\net8.0\ref\MedicalAppointmentApp.Domain.dll

@@ -1,5 +1,5 @@
                                            Proyecto de Desarrollo - Programación 2
-Este repositorio contiene el código del proyecto de desarrollo de la asignatura Programación 2, realizado por Pablo y Jennifer.
+Este repositorio contiene el código del proyecto de gestion de citas para una clinica, el mismo se trabaja a lo largo de la asignatura, realizado por Pablo 2023-1839 y Jennifer 2023-1411.
 
                                                   Estructura del Proyecto
 El desarrollo del proyecto se organiza en varias ramas para facilitar la colaboración:

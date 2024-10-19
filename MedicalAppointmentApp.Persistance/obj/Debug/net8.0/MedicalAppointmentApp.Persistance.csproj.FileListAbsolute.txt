@@ -1,0 +1,12 @@
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Persistance\bin\Debug\net8.0\MedicalAppointmentApp.Persistance.deps.json
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Persistance\bin\Debug\net8.0\MedicalAppointmentApp.Persistance.dll
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Persistance\bin\Debug\net8.0\MedicalAppointmentApp.Persistance.pdb
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Persistance\obj\Debug\net8.0\MedicalAppointmentApp.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Persistance\obj\Debug\net8.0\MedicalAppointmentApp.Persistance.AssemblyInfoInputs.cache
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Persistance\obj\Debug\net8.0\MedicalAppointmentApp.Persistance.AssemblyInfo.cs
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Persistance\obj\Debug\net8.0\MedicalAppointmentApp.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Persistance\obj\Debug\net8.0\MedicalAppointmentApp.Persistance.sourcelink.json
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Persistance\obj\Debug\net8.0\MedicalAppointmentApp.Persistance.dll
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Persistance\obj\Debug\net8.0\refint\MedicalAppointmentApp.Persistance.dll
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Persistance\obj\Debug\net8.0\MedicalAppointmentApp.Persistance.pdb
+C:\Users\Jenn\Documents\ProyectoFinal-PII\MedicalAppointmentApp\MedicalAppointmentApp.Persistance\obj\Debug\net8.0\ref\MedicalAppointmentApp.Persistance.dll

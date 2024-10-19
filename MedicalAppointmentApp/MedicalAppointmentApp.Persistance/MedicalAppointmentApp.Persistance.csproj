@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Context\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Interfaces\Configuration\" />
+    <Folder Include="Models\Configuration\" />
+    <Folder Include="Repositories\Configuration\" />
+  </ItemGroup>
+
 </Project>

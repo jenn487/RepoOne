@@ -2,7 +2,7 @@
 
 namespace MedicalAppointmentApp.Domain.Entities.Medical
 {
-    public class MedicalRecords
+    public class MedicalRecords : Base.BaseEntity
     {
         public int RecordID { get; set; }
         public int PatientID { get; set; }
@@ -10,8 +10,7 @@ namespace MedicalAppointmentApp.Domain.Entities.Medical
         public string? Diagnosis { get; set; }
         public string? Treatment { get; set; }
         public DateTime DateOfVisit { get; set; }
-        public DateTime CreatedAt { get; set; }
-        public DateTime? UpdatedAt { get; set; }
+
 
     }
 }

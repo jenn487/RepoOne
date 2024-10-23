@@ -1,9 +1,13 @@
-﻿using System;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 
 namespace MedicalAppointmentApp.Domain.Entities.Insurance
 {
+    [Table("InsuranceProviders", Schema = "insurance")]
     public class InsuranceProviders : Base.BaseEntity
     {
+        [Key]
         public int InsuranceProviderID { get; set; }
         public string? Name { get; set; }
         public string? ContactNumber { get; set; }

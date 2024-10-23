@@ -8,11 +8,11 @@ namespace MedicalAppointmentApp.Domain.Base
         public bool IsActive { get; set; } = true;
         protected BaseEntity()
         {
-            CreatedAt = DateTime.MinValue;
+            CreatedAt = DateTime.Now;
         }
         public void UpdateTimes()
         {
-            UpdatedAt = DateTime.MinValue;
+            UpdatedAt = DateTime.Now;
         }
 
     }

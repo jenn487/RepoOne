@@ -1,9 +1,11 @@
-﻿using System;
+﻿using System.ComponentModel.DataAnnotations;
+
 
 namespace MedicalAppointmentApp.Domain.Entities.Users
 {
     public class Users : Base.BaseEntity
     {
+        [Key]
         public int UsersID { get; set; }
         public string? FirstName { get; set; }
         public string? LastName { get; set; }

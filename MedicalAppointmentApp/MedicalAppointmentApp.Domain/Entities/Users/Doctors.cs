@@ -20,6 +20,11 @@ namespace MedicalAppointmentApp.Domain.Entities.Users
         public short? AvailabilityModeld  { get; set; }
         public DateOnly LicenseExpirationDate { get; set; }
 
-
+        public void UpdateProfile(string phoneNumber, string education, decimal consultationFee)
+        {
+            PhoneNumber = phoneNumber;
+            Education = education;
+            ConsultationFree = consultationFee;
+        }
     }
 }

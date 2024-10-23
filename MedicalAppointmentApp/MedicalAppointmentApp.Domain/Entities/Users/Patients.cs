@@ -19,6 +19,11 @@ namespace MedicalAppointmentApp.Domain.Entities.Users
         public string? Allergies { get; set; }
         public int InsuranceProviderID { get; set; }
 
+        public void UpdatePatientInfo(string phoneNumber, string address)
+        {
+            PhoneNumber = phoneNumber;
+            Address = address;
+        }
 
-}
+    }
 }

@@ -14,6 +14,11 @@ namespace MedicalAppointmentApp.Domain.Entities.Medical
         public string? Treatment { get; set; }
         public DateTime DateOfVisit { get; set; }
 
-
+        // actualiza la informacion medica del paciente
+        public void UpdateRecord(string diagnosis, string treatment)
+        {
+            Diagnosis = diagnosis;
+            Treatment = treatment;
+        }
     }
 }

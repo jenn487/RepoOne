@@ -26,7 +26,13 @@ namespace MedicalAppointmentApp.Domain.Entities.Insurance
         public string? AcceptedRegions { get; set; }
         public decimal? MaxCoverageAmount { get; set; }
 
-
+        // actualizar proveedor de seguros en perfil del paciente
+        public void UpdateInsuranceProvider(string name, string contactNumber, string email)
+        {
+            Name = name;
+            ContactNumber = contactNumber;
+            Email = email;
+        }
 
 
     }

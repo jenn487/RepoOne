@@ -7,7 +7,7 @@ namespace MedicalAppointmentApp.Domain.Entities.Medical
     public class Specialties : Base.BaseEntity
     {
         [Key]
-        public short SpecialtyID { get; set; }
+        public int SpecialtyID { get; set; }
         public string? SpecialtyName { get; set; }
 
     }

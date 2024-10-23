@@ -11,5 +11,12 @@ namespace MedicalAppointmentApp.Domain.Entities.System
         public int UserID { get; set; }
         public string? Message { get; set; }
         public DateTime? SentAt { get; set; }
+
+        public void SendNotification(string message, int userId)
+        {
+            Message = message;
+            UserID = userId;
+            SentAt = DateTime.Now;
+        }
     }
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MedicalAppointment.Web/1.0.0": {
+        "runtime": {
+          "MedicalAppointment.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MedicalAppointment.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

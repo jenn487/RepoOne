@@ -1,0 +1,39 @@
+﻿@model IEnumerable<MedicalAppointmentApp.Web.Models.MedicalRecordModel>
+
+@{
+    ViewData["Title"] = "Lista de Registros Médicos";
+}
+
+<h1>Registros Médicos</h1>
+
+<p>
+    <a asp-action="Create">Crear Nuevo Registro Médico</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.MedicalRecordID)</th>
+            <th>@Html.DisplayNameFor(model => model.PatientName)</th>
+            <th>@Html.DisplayNameFor(model => model.DoctorName)</th>
+            <th>@Html.DisplayNameFor(model => model.Diagnosis)</th>
+            <th>@Html.DisplayNameFor(model => model.AppointmentDate)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.MedicalRecordID)</td>
+                <td>@Html.DisplayFor(modelItem => item.PatientName)</td>
+                <td>@Html.DisplayFor(modelItem => item.DoctorName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Diagnosis)</td>
+                <td>@Html.DisplayFor(modelItem => item.AppointmentDate)</td>
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { id = item.MedicalRecordID }) |
+                    @Html.ActionLink("Detalles", "Details", new { id = item.MedicalRecordID })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,6 @@
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaEntidad\obj\Debug\CapaEntidad.pdb
